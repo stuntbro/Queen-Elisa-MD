@@ -35,7 +35,6 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 ##### 🧑‍💻 USE THIS LINK & YOUR GITHUB LINK FRO DEPLOY YOUR BOT
             https://heroku.com/deploy?template=https://github.com/stuntbro/Queen-Elisa-MD.git
 # 
-# 
 
 ``` I am in no way responsible for any mistakes you may make !```
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
@@ -84,7 +83,7 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94722068707'] // Owner number , (0722068707 )
+global.owner = ['94725058757'] // Owner number , (0722068707 )
 global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Mr.Yeshan' // Your name ඔබේ නම 
